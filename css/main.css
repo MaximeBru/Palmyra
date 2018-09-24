@@ -179,7 +179,7 @@ a{
   .img-box {
     position: relative;
     height: 70rem;
-    /* background-image: url("../assets/images/PalmBackground.jpg"); */
+    background-image: url("../assets/images/PalmBackground.jpg"); 
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
